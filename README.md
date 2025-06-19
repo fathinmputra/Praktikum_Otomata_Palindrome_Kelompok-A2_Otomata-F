@@ -1,4 +1,4 @@
-# Praktikum_Otomata_Palindrome
+# Praktikum_Otomata_Palindrome_Kelompok-A2_Otomata-F
 
 Kelas: Otomata-F
 
